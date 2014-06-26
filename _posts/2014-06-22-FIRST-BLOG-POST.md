@@ -5,7 +5,7 @@ category: posts
 ---
 
 So, this is the all-new UP version. It is more based
-on my own [blog]http://carlosbecker.com, which is a some kind of
+on my own [blog][http://carlosbecker.com], which is a some kind of
 branch of this theme.
 
 The biggest changes here are:
