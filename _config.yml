@@ -6,12 +6,12 @@ rdiscount:
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title : AirForge
 production_url : http://airforge.github.io
-description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
-disqus_shortname: caarlos0blog
-analytics: UA-32899481-1
-gauges: 50f2b533613f5d7c8000000c
+description: "Just trying to build stuff."
+disqus_shortname: airforge
+#analytics: UA-32899481-1
+#gauges: 50f2b533613f5d7c8000000c
 author :
   name : Ben Baltes
   github : airforge
-  twitter : caarlos0
-  email: caarlos0@gmail.com
+#  twitter : caarlos0
+  email: benbaltes@utexas.edu
